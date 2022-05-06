@@ -1,0 +1,14 @@
+body{
+  background-color: #373435;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+div.explicit {
+  background: whitesmoke;
+}

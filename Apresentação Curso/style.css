@@ -1,0 +1,26 @@
+:root {
+  --primary-color: #d2d0e2;
+  --secondary-color: #0F0F0B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: var(--primary-color);
+  font: bold 2rem 'Open Sans', sans-serif;
+}
+
+cover {
+  background-image: url(/DEVinHouse.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  width: 100%;
+}
