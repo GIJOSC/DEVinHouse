@@ -7,9 +7,11 @@
 
 ## Módulo 1 - 3 Meses 40%
 
+```
 O primeiro módulo é dedicado a desenvolver os fundamentos da web e front end. 
 
 São 3 horas diárias de conteúdo ao vivo e interativo com o docente e a turma, além das vivências com a House quinzenalmente das 19h às 20h30.
+```
 
 ## Módulo 2 - 3 Meses 70% 
 
