@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DEVinHouse - MS308-Ex5</title>
+  </head>
+  <body>
+    <h1>
+      Quais são os 3 principais elementos da arquitetura flux? Anexe um
+      fluxograma ou imagem que represente essa arquitetura.
+    </h1>
+    <h2>
+      <p>
+        Store: você pode pensar em store como um container ou um grande centro
+        de informações, que tem disponibilidade para receber e entregar o que o
+        seu componente requisita. A store armazena de forma centralizada todos
+        os estados da aplicação. Vale ressaltar que a store é imutável.
+      </p>
+      <br />
+      <p>
+        Actions: São ações disparadas da aplicação para o store. Elas são
+        criadas através das action creators. As actions são a única forma de
+        acionar uma mudança de estados no store.
+      </p>
+      <br />
+      <p>
+        Reducers: Cada dado da store deve ter o seu próprio reducer. Ele é
+        encarregado de lidar com todas as ações e especificam como o estado da
+        aplicação irá mudar de acordo com a action que foi enviada para o store.
+      </p>
+    </h2>
+    <img
+      src="https://www.alura.com.br/artigos/assets/redux-desvendando-arquitetura-flux/imagem2.png"
+    />
+  </body>
+</html>
