@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.devinhouse.producer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MensagemDirectApplicationTests {
+class ProducerApplicationTests {
 
 	@Test
 	void contextLoads() {
